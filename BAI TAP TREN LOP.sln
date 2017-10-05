@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPADDRESS", "IPADDRESS\IPADDRESS.csproj", "{39CE20AA-9751-458D-BB9E-C95A7947ADF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPSocket-Server", "TCPSocket-Server\TCPSocket-Server.csproj", "{CC83B351-9B74-4A21-871C-103B318C75AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPSocket-Server", "UDPSocket-Server\UDPSocket-Server.csproj", "{EB0FAB1B-FE79-467E-84EA-2CABA93BE769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPSocket-Client", "UDPSocket-Client\UDPSocket-Client.csproj", "{B51A1FE3-325D-4243-851E-00662CB1F4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CE20AA-9751-458D-BB9E-C95A7947ADF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CE20AA-9751-458D-BB9E-C95A7947ADF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CE20AA-9751-458D-BB9E-C95A7947ADF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CE20AA-9751-458D-BB9E-C95A7947ADF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC83B351-9B74-4A21-871C-103B318C75AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC83B351-9B74-4A21-871C-103B318C75AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC83B351-9B74-4A21-871C-103B318C75AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC83B351-9B74-4A21-871C-103B318C75AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0FAB1B-FE79-467E-84EA-2CABA93BE769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0FAB1B-FE79-467E-84EA-2CABA93BE769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0FAB1B-FE79-467E-84EA-2CABA93BE769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0FAB1B-FE79-467E-84EA-2CABA93BE769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51A1FE3-325D-4243-851E-00662CB1F4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51A1FE3-325D-4243-851E-00662CB1F4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51A1FE3-325D-4243-851E-00662CB1F4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51A1FE3-325D-4243-851E-00662CB1F4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
